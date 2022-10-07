@@ -8,10 +8,65 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "users": [
-  {
-    "firstname": "selim",
-    "lasname": "bakir"
-  }
-  ]
+    "users":[
+        {
+          "id": 1,
+          "firstname": "Litzy",
+          "lastname": "Leannon",
+          "email": "Annabell_Kemmer66@yahoo.com"
+        },
+        {
+          "id": 2,
+          "firstname": "Eusebio",
+          "lastname": "Fay",
+          "email": "Gunner_Blick26@gmail.com"
+        },
+        {
+          "id": 3,
+          "firstname": "Urban",
+          "lastname": "Hegmann",
+          "email": "Alejandra40@yahoo.com"
+        },
+        {
+          "id": 4,
+          "firstname": "Adelle",
+          "lastname": "Kozey",
+          "email": "Kellen4@gmail.com"
+        },
+        {
+          "id": 5,
+          "firstname": "Rosalyn",
+          "lastname": "Kautzer",
+          "email": "Tamara27@gmail.com"
+        },
+        {
+          "id": 6,
+          "firstname": "Madelynn",
+          "lastname": "Thompson",
+          "email": "Miguel_Turner87@hotmail.com"
+        },
+        {
+          "id": 7,
+          "firstname": "Cornelius",
+          "lastname": "Muller",
+          "email": "Katelynn45@yahoo.com"
+        },
+        {
+          "id": 8,
+          "firstname": "Maximillia",
+          "lastname": "Collier",
+          "email": "Tomas.Moore71@hotmail.com"
+        },
+        {
+          "id": 9,
+          "firstname": "Vicente",
+          "lastname": "Kohler",
+          "email": "Coleman_Sporer@yahoo.com"
+        },
+        {
+          "id": 10,
+          "firstname": "Haven",
+          "lastname": "Bosco",
+          "email": "Nettie.Wilkinson@gmail.com"
+        }]
 }
