@@ -1,74 +1,124 @@
 {
   "products": [{
   "id": 1,
-  "name": "Olives - Morracan Dired",
-  "short_desc": "Vocation/Commun Treatment using Assist Equipment",
-  "long_desc": "Vocational Activities and Functional Community or Work Reintegration Skills Treatment using Assistive, Adaptive, Supportive or Protective Equipment",
-  "formula": 2,
-  "image": "http://dummyimage.com/640x480.png/5fa2dd/ffffff"
+  "product_name": "Stock - Veal, Brown",
+  "desc": "Open fractures involving skull or face with other bones, with other and unspecified intracranial hemorrhage, with prolonged [more than 24 hours] loss of consciousness and return to pre-existing conscious level",
+  "price": 2.5,
+  "type": "drink"
 }, {
   "id": 2,
-  "name": "Pur Source",
-  "short_desc": "Drainage of Hypothalamus, Percutaneous Approach",
-  "long_desc": "Drainage of Hypothalamus, Percutaneous Approach",
-  "formula": 1,
-  "image": "http://dummyimage.com/640x480.png/5fa2dd/ffffff"
+  "product_name": "Cake - Night And Day Choclate",
+  "desc": "Bipolar I disorder, most recent episode (or current) depressed, moderate, Bipolar I disorder, most recent episode (or current) depressed, moderate, Bipolar I disorder, most recent episode (or current) depressed, moderate",
+  "price": 1.5,
+  "type": "plus"
 }, {
   "id": 3,
-  "name": "Appetizer - Asian Shrimp Roll",
-  "short_desc": "Ultrasonography of Inferior Mesenteric Artery",
-  "long_desc": "Ultrasonography of Inferior Mesenteric Artery",
-  "formula": 1,
-  "image": "http://dummyimage.com/640x480.png/5fa2dd/ffffff"
+  "product_name": "Garlic - Peeled",
+  "desc": "Care involving orthoptic training, Care involving orthoptic training, Care involving orthoptic training, Care involving orthoptic training",
+  "price": 4.5,
+  "type": "dessert"
 }, {
   "id": 4,
-  "name": "Rambutan",
-  "short_desc": "Drain L Low Extrem Bursa/Lig w Drain Dev, Perc",
-  "long_desc": "Drainage of Left Lower Extremity Bursa and Ligament with Drainage Device, Percutaneous Approach",
-  "formula": 1,
-  "image": "http://dummyimage.com/640x480.png/cc0000/ffffff"
+  "product_name": "Veal - Insides, Grains",
+  "desc": "Better eye: severe vision impairment; lesser eye; impairment not further specified, Better eye: severe vision impairment; lesser eye; impairment not further specified",
+  "price": 2.5,
+  "type": "plus"
 }, {
   "id": 5,
-  "name": "Couscous",
-  "short_desc": "Drainage of Sacral Nerve, Percutaneous Endoscopic Approach",
-  "long_desc": "Drainage of Sacral Nerve, Percutaneous Endoscopic Approach",
-  "formula": 0,
-  "image": "http://dummyimage.com/640x480.png/cc0000/ffffff"
+  "product_name": "Smoked Paprika",
+  "desc": "Senile dementia with depressive features, Senile dementia with depressive features, Senile dementia with depressive features",
+  "price": 2.9,
+  "type": "drink"
 }, {
   "id": 6,
-  "name": "Muffin Puck Ww Carrot",
-  "short_desc": "Resection of Right Ovary, Percutaneous Endoscopic Approach",
-  "long_desc": "Resection of Right Ovary, Percutaneous Endoscopic Approach",
-  "formula": 2,
-  "image": "http://dummyimage.com/640x480.png/5fa2dd/ffffff"
+  "product_name": "Soup - Campbells, Classic Chix",
+  "desc": "Insomnia with sleep apnea, unspecified, Insomnia with sleep apnea, unspecified, Insomnia with sleep apnea, unspecified",
+  "price": 3.9,
+  "type": "dessert"
 }, {
   "id": 7,
-  "name": "Food Colouring - Green",
-  "short_desc": "Supplement R Hand Art with Synth Sub, Perc Endo Approach",
-  "long_desc": "Supplement Right Hand Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",
-  "formula": 0,
-  "image": "http://dummyimage.com/640x480.png/ff4444/ffffff"
+  "product_name": "Sauce - Salsa",
+  "desc": "Open wound of abdominal wall, lateral, complicated, Open wound of abdominal wall, lateral, complicated",
+  "price": 3.5,
+  "type": "drink"
 }, {
   "id": 8,
-  "name": "Sugar - Brown",
-  "short_desc": "Excision of Transverse Colon, Open Approach, Diagnostic",
-  "long_desc": "Excision of Transverse Colon, Open Approach, Diagnostic",
-  "formula": 0,
-  "image": "http://dummyimage.com/640x480.png/cc0000/ffffff"
+  "product_name": "Table Cloth 81x81 Colour",
+  "desc": "Ganglion of joint, Ganglion of joint, Ganglion of joint, Ganglion of joint, Ganglion of joint",
+  "price": 7.5,
+  "type": "dish"
 }, {
   "id": 9,
-  "name": "Shrimp - Prawn",
-  "short_desc": "Bypass R Com Iliac Art to Mesent Art w Autol Art, Open",
-  "long_desc": "Bypass Right Common Iliac Artery to Mesenteric Artery with Autologous Arterial Tissue, Open Approach",
-  "formula": 0,
-  "image": "http://dummyimage.com/640x480.png/5fa2dd/ffffff"
+  "product_name": "Rice Wine - Aji Mirin",
+  "desc": "Trigeminal neuralgia, Trigeminal neuralgia, Trigeminal neuralgia, Trigeminal neuralgia",
+  "price": 2.0,
+  "type": "dessert"
 }, {
   "id": 10,
-  "name": "Soup - French Onion, Dry",
-  "short_desc": "Dilation of Right Internal Carotid Artery, Perc Approach",
-  "long_desc": "Dilation of Right Internal Carotid Artery, Percutaneous Approach",
-  "formula": 1,
-  "image": "http://dummyimage.com/640x480.png/ff4444/ffffff"
+  "product_name": "Tart - Raisin And Pecan",
+  "desc": "Closed fracture of mandible, condylar process, Closed fracture of mandible, condylar process",
+  "price": 2.5,
+  "type": "drink"
+}, {
+  "id": 11,
+  "product_name": "Bread - Crusty Italian Poly",
+  "desc": "Hodgkin's disease, nodular sclerosis, lymph nodes of head, face, and neck, Hodgkin's disease, nodular sclerosis, lymph nodes of head, face, and neck",
+  "price": 7.5,
+  "type": "dish"
+}, {
+  "id": 12,
+  "product_name": "Wine - White Cab Sauv.on",
+  "desc": "Disorders of optic chiasm associated with pituitary neoplasms and disorders, Disorders of optic chiasm associated with pituitary neoplasms and disorders",
+  "price": 2.0,
+  "type": "drink"
+}, {
+  "id": 13,
+  "product_name": "Curry Powder Madras",
+  "desc": "Unspecified crystal arthropathy, forearm, Unspecified crystal arthropathy, forearm, Unspecified crystal arthropathy, forearm, Unspecified crystal arthropathy, forearm",
+  "price": 3.0,
+  "type": "dessert"
+}, {
+  "id": 14,
+  "product_name": "Zucchini - Green",
+  "desc": "Diphtheritic myocarditis, Diphtheritic myocarditis, Diphtheritic myocarditis, Diphtheritic myocarditis, Diphtheritic myocarditis",
+  "price": 7.2,
+  "type": "dish"
+}, {
+  "id": 15,
+  "product_name": "Icecream - Dibs",
+  "desc": "Inadequate material resources, Inadequate material resources, Inadequate material resources, Inadequate material resources",
+  "price": 1.5,
+  "type": "drink"
+}, {
+  "id": 16,
+  "product_name": "Peas Snow",
+  "desc": "Family history of other ear disorders, Family history of other ear disorders, Family history of other ear disorders, Family history of other ear disorders",
+  "price": 3.5,
+  "type": "dessert"
+}, {
+  "id": 17,
+  "product_name": "Nacho Chips",
+  "desc": "Syphilitic endocarditis of tricuspid valve, Syphilitic endocarditis of tricuspid valve, Syphilitic endocarditis of tricuspid valve, Syphilitic endocarditis of tricuspid valve",
+  "price": 7.5,
+  "type": "dish"
+}, {
+  "id": 18,
+  "product_name": "Pasta - Elbows, Macaroni, Dry",
+  "desc": "Double pterygium, Double pterygium, Double pterygium, Double pterygium, Double pterygium, Double pterygium, Double pterygium",
+  "price": 3.5,
+  "type": "dessert"
+}, {
+  "id": 19,
+  "product_name": "Garam Masala Powder",
+  "desc": "Intestinal infection due to proteus (mirabilis) (morganii), Intestinal infection due to proteus (mirabilis) (morganii)",
+  "price": 3.0,
+  "type": "plus"
+}, {
+  "id": 20,
+  "product_name": "Bread - Crusty Italian Poly",
+  "desc": "Malignant neoplasm of lower-inner quadrant of female breast, Malignant neoplasm of lower-inner quadrant of female breast",
+  "price": 6.9,
+  "type": "dish"
 }],
   "formula": [
     { "id": 0, "name": "Plat + Dessert ET Boisson", "price": 8.90 },
