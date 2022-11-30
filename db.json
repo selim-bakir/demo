@@ -1,11 +1,78 @@
 {
-  "products": [
-    { "id": 1, "title": "TEST" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+  "products": [{
+  "id": 1,
+  "name": "Olives - Morracan Dired",
+  "short_desc": "Vocation/Commun Treatment using Assist Equipment",
+  "long_desc": "Vocational Activities and Functional Community or Work Reintegration Skills Treatment using Assistive, Adaptive, Supportive or Protective Equipment",
+  "formula": 2,
+  "image": "http://dummyimage.com/640x480.png/5fa2dd/ffffff"
+}, {
+  "id": 2,
+  "name": "Pur Source",
+  "short_desc": "Drainage of Hypothalamus, Percutaneous Approach",
+  "long_desc": "Drainage of Hypothalamus, Percutaneous Approach",
+  "formula": 1,
+  "image": "http://dummyimage.com/640x480.png/5fa2dd/ffffff"
+}, {
+  "id": 3,
+  "name": "Appetizer - Asian Shrimp Roll",
+  "short_desc": "Ultrasonography of Inferior Mesenteric Artery",
+  "long_desc": "Ultrasonography of Inferior Mesenteric Artery",
+  "formula": 1,
+  "image": "http://dummyimage.com/640x480.png/5fa2dd/ffffff"
+}, {
+  "id": 4,
+  "name": "Rambutan",
+  "short_desc": "Drain L Low Extrem Bursa/Lig w Drain Dev, Perc",
+  "long_desc": "Drainage of Left Lower Extremity Bursa and Ligament with Drainage Device, Percutaneous Approach",
+  "formula": 1,
+  "image": "http://dummyimage.com/640x480.png/cc0000/ffffff"
+}, {
+  "id": 5,
+  "name": "Couscous",
+  "short_desc": "Drainage of Sacral Nerve, Percutaneous Endoscopic Approach",
+  "long_desc": "Drainage of Sacral Nerve, Percutaneous Endoscopic Approach",
+  "formula": 0,
+  "image": "http://dummyimage.com/640x480.png/cc0000/ffffff"
+}, {
+  "id": 6,
+  "name": "Muffin Puck Ww Carrot",
+  "short_desc": "Resection of Right Ovary, Percutaneous Endoscopic Approach",
+  "long_desc": "Resection of Right Ovary, Percutaneous Endoscopic Approach",
+  "formula": 2,
+  "image": "http://dummyimage.com/640x480.png/5fa2dd/ffffff"
+}, {
+  "id": 7,
+  "name": "Food Colouring - Green",
+  "short_desc": "Supplement R Hand Art with Synth Sub, Perc Endo Approach",
+  "long_desc": "Supplement Right Hand Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",
+  "formula": 0,
+  "image": "http://dummyimage.com/640x480.png/ff4444/ffffff"
+}, {
+  "id": 8,
+  "name": "Sugar - Brown",
+  "short_desc": "Excision of Transverse Colon, Open Approach, Diagnostic",
+  "long_desc": "Excision of Transverse Colon, Open Approach, Diagnostic",
+  "formula": 0,
+  "image": "http://dummyimage.com/640x480.png/cc0000/ffffff"
+}, {
+  "id": 9,
+  "name": "Shrimp - Prawn",
+  "short_desc": "Bypass R Com Iliac Art to Mesent Art w Autol Art, Open",
+  "long_desc": "Bypass Right Common Iliac Artery to Mesenteric Artery with Autologous Arterial Tissue, Open Approach",
+  "formula": 0,
+  "image": "http://dummyimage.com/640x480.png/5fa2dd/ffffff"
+}, {
+  "id": 10,
+  "name": "Soup - French Onion, Dry",
+  "short_desc": "Dilation of Right Internal Carotid Artery, Perc Approach",
+  "long_desc": "Dilation of Right Internal Carotid Artery, Percutaneous Approach",
+  "formula": 1,
+  "image": "http://dummyimage.com/640x480.png/ff4444/ffffff"
+}],
   "formula": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 0, "name": "Plat + Dessert ET Boisson", "price": 8.90 },
+    { "id": 1, "name": "Plat + Dessert OU Boisson", "price": 8.50 },
+    { "id": 2, "name": "Sandwich ou Quiche dessert et Boisson", "price": 6.90 }
   ]
 }
