@@ -140,7 +140,7 @@
     "image": "http://dummyimage.com/640x480.png/5fa2dd/ffffff",
     "type": "dish"
   }],
-    "formula": [
+    "formulas": [
       { "id": 0, "name": "Plat + Dessert ET Boisson", "price": 8.90 },
       { "id": 1, "name": "Plat + Dessert OU Boisson", "price": 8.50 },
       { "id": 2, "name": "Sandwich ou Quiche dessert et Boisson", "price": 6.90 }
