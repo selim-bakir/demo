@@ -4,80 +4,8 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
+  "formula": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-    "users":[
-  {
-    "id": 1,
-    "firstname": "Scot",
-    "lastname": "Cremin",
-    "email": "Wilfredo.Bins91@gmail.com",
-    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/854.jpg"
-  },
-  {
-    "id": 2,
-    "firstname": "Gianni",
-    "lastname": "Haley",
-    "email": "Wava.Bins58@gmail.com",
-    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/436.jpg"
-  },
-  {
-    "id": 3,
-    "firstname": "Stefan",
-    "lastname": "Pouros",
-    "email": "Aubrey65@hotmail.com",
-    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/731.jpg"
-  },
-  {
-    "id": 4,
-    "firstname": "Magdalena",
-    "lastname": "Zboncak",
-    "email": "Rupert.Hackett25@gmail.com",
-    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/716.jpg"
-  },
-  {
-    "id": 5,
-    "firstname": "Cielo",
-    "lastname": "Leannon",
-    "email": "Hallie74@gmail.com",
-    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/74.jpg"
-  },
-  {
-    "id": 6,
-    "firstname": "Nestor",
-    "lastname": "Schneider",
-    "email": "Ebba80@hotmail.com",
-    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/560.jpg"
-  },
-  {
-    "id": 7,
-    "firstname": "Vita",
-    "lastname": "Marquardt",
-    "email": "Coty52@gmail.com",
-    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/813.jpg"
-  },
-  {
-    "id": 8,
-    "firstname": "Ellie",
-    "lastname": "Balistreri",
-    "email": "Flo.Turcotte39@yahoo.com",
-    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1036.jpg"
-  },
-  {
-    "id": 9,
-    "firstname": "Kylee",
-    "lastname": "Koch",
-    "email": "Miles_Gutkowski43@yahoo.com",
-    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/195.jpg"
-  },
-  {
-    "id": 10,
-    "firstname": "Maiya",
-    "lastname": "Bahringer",
-    "email": "Rusty_Bayer11@yahoo.com",
-    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1061.jpg"
-  }
-]
 }
