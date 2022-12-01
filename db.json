@@ -1,56 +1,77 @@
 {
     "products": [{
     "id": 1,
+    "author":"brigade Dejbox",
+    "slug":"lasagne"
     "product_name": "Lasagnes gratinées au poulet et champi de Paris",
     "desc": "Lasagnes bio, poulet français, champignons de Paris, béchamel au beurre et lait français, parmesan AOP et sauce tomates.",
     "price": 7.5,
     "image": "https://storage.googleapis.com/dejbox-prod-d8678faa-image-store/640x480_BLANKET_LASAGNES_POULET_CHAMPIGNONS_BD_e8785fe187/640x480_BLANKET_LASAGNES_POULET_CHAMPIGNONS_BD_e8785fe187.jpg",
+    "tag":['best of'],
     "formula":[0,1],
     "type": "dish"
   }, {
     "id": 2,
+    "author":"brigade Dejbox",
+    "slug":"cookie"
     "product_name": "Fav' cookie ever",
     "desc": "Maxi cookie au chocolat",
     "price": 1,
     "image": "https://storage.googleapis.com/dejbox-prod-d8678faa-image-store/640x480_NEUTRE_DA_COOKIE_TROIS_CHOCOLATS_BD_26a79b876f/640x480_NEUTRE_DA_COOKIE_TROIS_CHOCOLATS_BD_26a79b876f.jpg",
+    "tag":['gourmand'],    
     "formula":[0,1,2],
     "type": "dessert"
   }, {
     "id": 3,
+    "author":"brigade Dejbox",
+    "slug":"muffin"
     "product_name": "Muffin full choco",
     "desc": "Muffin au chocolat",
     "price": 1,
     "image": "https://storage.googleapis.com/dejbox-prod-d8678faa-image-store/640x480_NEUTRE_DA_MUFFIN_CHOCOLAT_BD_2fd4739714/640x480_NEUTRE_DA_MUFFIN_CHOCOLAT_BD_2fd4739714.jpg",
     "formula":[0,1,2],
+    "tag":['best of', 'gourmand'],
     "type": "dessert"
   }, {
     "id": 4,
+    "author":"brigade Dejbox",
+    "slug":"volvic"
     "product_name": "Volvic Lemon",
     "price": 1.5,
     "image": "https://storage.googleapis.com/dejbox-prod-d8678faa-image-store/640x480_NEUTRE_FR_VOLVIC_CITRON_10073_BD_65f26a0272/640x480_NEUTRE_FR_VOLVIC_CITRON_10073_BD_65f26a0272.jpg",
      "formula":[0,1,2],
+     "tag":['best of'],
     "type": "drink"
   }, {
     "id": 5,
+    "author":"brigade Dejbox",
+    "slug":"san_pellegrino"
     "product_name": "San Pellegrino citron",
     "price": 1.5,
     "image": "https://storage.googleapis.com/dejbox-prod-d8678faa-image-store/640x480_UNIVERS_NEUTRE_6154_8ba90c956f/640x480_UNIVERS_NEUTRE_6154_8ba90c956f.jpg",
-     "formula":[0,1,2],      
+    "tag":['fresh'],
+    "formula":[0,1,2],      
     "type": "drink"
   },  {
     "id": 6,
+    "author":"brigade Dejbox",
+    "slug":"saucisse_puree"
     "product_name": "Saucisse, purée au beurre et jus court",
     "desc": "Saucisse Bleu Blanc Cœur, purée de pommes de terre au beurre et lait français, jus de cuisson de volaille réduit, persil.",
     "price": 7.5,
     "image": "https://storage.googleapis.com/dejbox-prod-d8678faa-image-store/640x480_BLANKET_FE_SAUCISSE_PUREE_V2_BD_c55d779d00/640x480_BLANKET_FE_SAUCISSE_PUREE_V2_BD_c55d779d00.jpg",
-     "formula":[0,1],   
+    "tag":['classic'],
+    "formula":[0,1],   
     "type": "dish"
   }, {
     "id": 7,
+    "author":"brigade Dejbox",
+    "slug":"pain"
     "product_name": "Bout de pain",
     "desc": "Petit pain individuel",
     "price": 0.15,
     "image": "https://storage.googleapis.com/dejbox-prod-d8678faa-image-store/640x480_UNIVERS_NEUTRE_5667_b400fe2a9f/640x480_UNIVERS_NEUTRE_5667_b400fe2a9f.jpg",
+    "tag":['extra'],
     "formula":[3],   
     "type": "plus"
   }],
