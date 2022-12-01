@@ -2,7 +2,7 @@
     "products": [{
     "id": 1,
     "author":"brigade Dejbox",
-    "slug":"lasagne"
+    "slug":"lasagne",
     "product_name": "Lasagnes gratinées au poulet et champi de Paris",
     "desc": "Lasagnes bio, poulet français, champignons de Paris, béchamel au beurre et lait français, parmesan AOP et sauce tomates.",
     "price": 7.5,
@@ -13,7 +13,7 @@
   }, {
     "id": 2,
     "author":"brigade Dejbox",
-    "slug":"cookie"
+    "slug":"cookie",
     "product_name": "Fav' cookie ever",
     "desc": "Maxi cookie au chocolat",
     "price": 1,
@@ -24,7 +24,7 @@
   }, {
     "id": 3,
     "author":"brigade Dejbox",
-    "slug":"muffin"
+    "slug":"muffin",
     "product_name": "Muffin full choco",
     "desc": "Muffin au chocolat",
     "price": 1,
@@ -35,7 +35,7 @@
   }, {
     "id": 4,
     "author":"brigade Dejbox",
-    "slug":"volvic"
+    "slug":"volvic",
     "product_name": "Volvic Lemon",
     "price": 1.5,
     "image": "https://storage.googleapis.com/dejbox-prod-d8678faa-image-store/640x480_NEUTRE_FR_VOLVIC_CITRON_10073_BD_65f26a0272/640x480_NEUTRE_FR_VOLVIC_CITRON_10073_BD_65f26a0272.jpg",
@@ -45,7 +45,7 @@
   }, {
     "id": 5,
     "author":"brigade Dejbox",
-    "slug":"san_pellegrino"
+    "slug":"san_pellegrino",
     "product_name": "San Pellegrino citron",
     "price": 1.5,
     "image": "https://storage.googleapis.com/dejbox-prod-d8678faa-image-store/640x480_UNIVERS_NEUTRE_6154_8ba90c956f/640x480_UNIVERS_NEUTRE_6154_8ba90c956f.jpg",
@@ -55,7 +55,7 @@
   },  {
     "id": 6,
     "author":"brigade Dejbox",
-    "slug":"saucisse_puree"
+    "slug":"saucisse_puree",
     "product_name": "Saucisse, purée au beurre et jus court",
     "desc": "Saucisse Bleu Blanc Cœur, purée de pommes de terre au beurre et lait français, jus de cuisson de volaille réduit, persil.",
     "price": 7.5,
@@ -66,7 +66,7 @@
   }, {
     "id": 7,
     "author":"brigade Dejbox",
-    "slug":"pain"
+    "slug":"pain",
     "product_name": "Bout de pain",
     "desc": "Petit pain individuel",
     "price": 0.15,
