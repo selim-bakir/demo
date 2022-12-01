@@ -1,144 +1,58 @@
 {
     "products": [{
     "id": 1,
-    "product_name": "Stock - Veal, Brown",
-    "desc": "Open fractures involving skull or face with other bones, with other and unspecified intracranial hemorrhage, with prolonged [more than 24 hours] loss of consciousness and return to pre-existing conscious level",
-    "price": 2.5,
-    "image": "http://dummyimage.com/640x480.png/cc0000/ffffff",
-    "type": "drink"
+    "product_name": "Lasagnes gratinées au poulet et champi de Paris",
+    "desc": "Lasagnes bio, poulet français, champignons de Paris, béchamel au beurre et lait français, parmesan AOP et sauce tomates.",
+    "price": 7.5,
+    "image": "https://storage.googleapis.com/dejbox-prod-d8678faa-image-store/640x480_BLANKET_LASAGNES_POULET_CHAMPIGNONS_BD_e8785fe187/640x480_BLANKET_LASAGNES_POULET_CHAMPIGNONS_BD_e8785fe187.jpg",
+    "formula":[0,1],
+    "type": "dish"
   }, {
     "id": 2,
-    "product_name": "Cake - Night And Day Choclate",
-    "desc": "Bipolar I disorder, most recent episode (or current) depressed, moderate, Bipolar I disorder, most recent episode (or current) depressed, moderate, Bipolar I disorder, most recent episode (or current) depressed, moderate",
-    "price": 1.5,
-    "image": "http://dummyimage.com/640x480.png/ff4444/ffffff",
-    "type": "plus"
+    "product_name": "Fav' cookie ever",
+    "desc": "Maxi cookie au chocolat",
+    "price": 1,
+    "image": "https://storage.googleapis.com/dejbox-prod-d8678faa-image-store/640x480_NEUTRE_DA_COOKIE_TROIS_CHOCOLATS_BD_26a79b876f/640x480_NEUTRE_DA_COOKIE_TROIS_CHOCOLATS_BD_26a79b876f.jpg",
+    "formula":[0,1,2],
+    "type": "dessert"
   }, {
     "id": 3,
-    "product_name": "Garlic - Peeled",
-    "desc": "Care involving orthoptic training, Care involving orthoptic training, Care involving orthoptic training, Care involving orthoptic training",
-    "price": 4.5,
-    "image": "http://dummyimage.com/640x480.png/5fa2dd/ffffff",
+    "product_name": "Muffin full choco",
+    "desc": "Muffin au chocolat",
+    "price": 1,
+    "image": "https://storage.googleapis.com/dejbox-prod-d8678faa-image-store/640x480_NEUTRE_DA_MUFFIN_CHOCOLAT_BD_2fd4739714/640x480_NEUTRE_DA_MUFFIN_CHOCOLAT_BD_2fd4739714.jpg",
+    "formula":[0,1,2],
     "type": "dessert"
   }, {
     "id": 4,
-    "product_name": "Veal - Insides, Grains",
-    "desc": "Better eye: severe vision impairment; lesser eye; impairment not further specified, Better eye: severe vision impairment; lesser eye; impairment not further specified",
-    "price": 2.5,
-    "image": "http://dummyimage.com/640x480.png/dddddd/000000",
-    "type": "plus"
+    "product_name": "Volvic Lemon",
+    "price": 1.5,
+    "image": "https://storage.googleapis.com/dejbox-prod-d8678faa-image-store/640x480_NEUTRE_FR_VOLVIC_CITRON_10073_BD_65f26a0272/640x480_NEUTRE_FR_VOLVIC_CITRON_10073_BD_65f26a0272.jpg",
+     "formula":[0,1,2],
+    "type": "drink"
   }, {
     "id": 5,
-    "product_name": "Smoked Paprika",
-    "desc": "Senile dementia with depressive features, Senile dementia with depressive features, Senile dementia with depressive features",
-    "price": 2.9,
-    "image": "http://dummyimage.com/640x480.png/dddddd/000000",
+    "product_name": "San Pellegrino citron",
+    "price": 1.5,
+    "image": "https://storage.googleapis.com/dejbox-prod-d8678faa-image-store/640x480_UNIVERS_NEUTRE_6154_8ba90c956f/640x480_UNIVERS_NEUTRE_6154_8ba90c956f.jpg",
+     "formula":[0,1,2],      
     "type": "drink"
-  }, {
+  },  {
     "id": 6,
-    "product_name": "Soup - Campbells, Classic Chix",
-    "desc": "Insomnia with sleep apnea, unspecified, Insomnia with sleep apnea, unspecified, Insomnia with sleep apnea, unspecified",
-    "price": 3.9,
-    "image": "http://dummyimage.com/640x480.png/5fa2dd/ffffff",
-    "type": "dessert"
+    "product_name": "Saucisse, purée au beurre et jus court",
+    "desc": "Saucisse Bleu Blanc Cœur, purée de pommes de terre au beurre et lait français, jus de cuisson de volaille réduit, persil.",
+    "price": 7.5,
+    "image": "https://storage.googleapis.com/dejbox-prod-d8678faa-image-store/640x480_BLANKET_FE_SAUCISSE_PUREE_V2_BD_c55d779d00/640x480_BLANKET_FE_SAUCISSE_PUREE_V2_BD_c55d779d00.jpg",
+     "formula":[0,1],   
+    "type": "dish"
   }, {
     "id": 7,
-    "product_name": "Sauce - Salsa",
-    "desc": "Open wound of abdominal wall, lateral, complicated, Open wound of abdominal wall, lateral, complicated",
-    "price": 3.5,
-    "image": "http://dummyimage.com/640x480.png/cc0000/ffffff",
-    "type": "drink"
-  }, {
-    "id": 8,
-    "product_name": "Table Cloth 81x81 Colour",
-    "desc": "Ganglion of joint, Ganglion of joint, Ganglion of joint, Ganglion of joint, Ganglion of joint",
-    "price": 7.5,
-    "image": "http://dummyimage.com/640x480.png/5fa2dd/ffffff",
-    "type": "dish"
-  }, {
-    "id": 9,
-    "product_name": "Rice Wine - Aji Mirin",
-    "desc": "Trigeminal neuralgia, Trigeminal neuralgia, Trigeminal neuralgia, Trigeminal neuralgia",
-    "price": 2.0,
-    "image": "http://dummyimage.com/640x480.png/ff4444/ffffff",
-    "type": "dessert"
-  }, {
-    "id": 10,
-    "product_name": "Tart - Raisin And Pecan",
-    "desc": "Closed fracture of mandible, condylar process, Closed fracture of mandible, condylar process",
-    "price": 2.5,
-    "image": "http://dummyimage.com/640x480.png/dddddd/000000",
-    "type": "drink"
-  }, {
-    "id": 11,
-    "product_name": "Bread - Crusty Italian Poly",
-    "desc": "Hodgkin's disease, nodular sclerosis, lymph nodes of head, face, and neck, Hodgkin's disease, nodular sclerosis, lymph nodes of head, face, and neck",
-    "price": 7.5,
-    "image": "http://dummyimage.com/640x480.png/cc0000/ffffff",
-    "type": "dish"
-  }, {
-    "id": 12,
-    "product_name": "Wine - White Cab Sauv.on",
-    "desc": "Disorders of optic chiasm associated with pituitary neoplasms and disorders, Disorders of optic chiasm associated with pituitary neoplasms and disorders",
-    "price": 2.0,
-    "image": "http://dummyimage.com/640x480.png/ff4444/ffffff",
-    "type": "drink"
-  }, {
-    "id": 13,
-    "product_name": "Curry Powder Madras",
-    "desc": "Unspecified crystal arthropathy, forearm, Unspecified crystal arthropathy, forearm, Unspecified crystal arthropathy, forearm, Unspecified crystal arthropathy, forearm",
-    "price": 3.0,
-    "image": "http://dummyimage.com/640x480.png/cc0000/ffffff",
-    "type": "dessert"
-  }, {
-    "id": 14,
-    "product_name": "Zucchini - Green",
-    "desc": "Diphtheritic myocarditis, Diphtheritic myocarditis, Diphtheritic myocarditis, Diphtheritic myocarditis, Diphtheritic myocarditis",
-    "price": 7.2,
-    "image": "http://dummyimage.com/640x480.png/ff4444/ffffff",
-    "type": "dish"
-  }, {
-    "id": 15,
-    "product_name": "Icecream - Dibs",
-    "desc": "Inadequate material resources, Inadequate material resources, Inadequate material resources, Inadequate material resources",
-    "price": 1.5,
-    "image": "http://dummyimage.com/640x480.png/cc0000/ffffff",
-    "type": "drink"
-  }, {
-    "id": 16,
-    "product_name": "Peas Snow",
-    "desc": "Family history of other ear disorders, Family history of other ear disorders, Family history of other ear disorders, Family history of other ear disorders",
-    "price": 3.5,
-    "image": "http://dummyimage.com/640x480.png/cc0000/ffffff",
-    "type": "dessert"
-  }, {
-    "id": 17,
-    "product_name": "Nacho Chips",
-    "desc": "Syphilitic endocarditis of tricuspid valve, Syphilitic endocarditis of tricuspid valve, Syphilitic endocarditis of tricuspid valve, Syphilitic endocarditis of tricuspid valve",
-    "price": 7.5,
-    "image": "http://dummyimage.com/640x480.png/ff4444/ffffff",
-    "type": "dish"
-  }, {
-    "id": 18,
-    "product_name": "Pasta - Elbows, Macaroni, Dry",
-    "desc": "Double pterygium, Double pterygium, Double pterygium, Double pterygium, Double pterygium, Double pterygium, Double pterygium",
-    "price": 3.5,
-    "image": "http://dummyimage.com/640x480.png/cc0000/ffffff",
-    "type": "dessert"
-  }, {
-    "id": 19,
-    "product_name": "Garam Masala Powder",
-    "desc": "Intestinal infection due to proteus (mirabilis) (morganii), Intestinal infection due to proteus (mirabilis) (morganii)",
-    "price": 3.0,
-    "image": "http://dummyimage.com/640x480.png/cc0000/ffffff",
+    "product_name": "Bout de pain",
+    "desc": "Petit pain individuel",
+    "price": 0.15,
+    "image": "https://storage.googleapis.com/dejbox-prod-d8678faa-image-store/640x480_UNIVERS_NEUTRE_5667_b400fe2a9f/640x480_UNIVERS_NEUTRE_5667_b400fe2a9f.jpg",
+    "formula":[3],   
     "type": "plus"
-  }, {
-    "id": 20,
-    "product_name": "Bread - Crusty Italian Poly",
-    "desc": "Malignant neoplasm of lower-inner quadrant of female breast, Malignant neoplasm of lower-inner quadrant of female breast",
-    "price": 6.9,
-    "image": "http://dummyimage.com/640x480.png/5fa2dd/ffffff",
-    "type": "dish"
   }],
     "formulas": [
       { "id": 0, "name": "Plat + Dessert ET Boisson", "price": 8.90 },
